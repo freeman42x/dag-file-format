@@ -31,21 +31,21 @@ Example `.dag`
 
 ```
 CEO
-    Operations
-        Logistics
-            Manager1
-        Manufacturing
-            Manager2
-                Supervisor
-    Sales
-        Domestic
-            Manager3
+	Operations
+		Logistics
+			Manager1
+		Manufacturing
+			Manager2
+				Supervisor
+	Sales
+		Domestic
+			Manager3
 CFO
-    Sales
-        International
-            Manager4
-    Operations
+	Sales
+		International
+			Manager4
+	Operations
 HR
-    Manager3
-        TeamLead
+	Manager3
+		TeamLead
 ```
